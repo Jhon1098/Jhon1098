@@ -1,4 +1,10 @@
 ## Olá! Eu sou Jhon Victor, programador iniciante!
+
+🤓 Em busca de mais conhecimento.
+
+💛 Atualmente estudando HTML, CSS e JavaScript.
+
+
 <div align="center">
   <a href="https://github.com/Jhon1098">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Jhon1098&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
