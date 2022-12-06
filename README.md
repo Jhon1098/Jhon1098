@@ -1,8 +1,8 @@
-## Olá! Eu sou Jhon Victor, programador iniciante!
+## Olá! Eu sou Jhon, programador iniciante!
 
 🤓 Em busca de mais conhecimento.
 
-💛 Atualmente estudando HTML, CSS e JavaScript.
+💙 Atualmente estudando Kotlin.
 
 
 <div align="center">
