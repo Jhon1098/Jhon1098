@@ -2,7 +2,7 @@
 
 🧐 Em busca de mais conhecimento.
 
-❤️ Atualmente estudando Debian server.
+❤️ Atualmente estudando Debian no uso de servidor.
 
 
 <div align="center">
