@@ -1,8 +1,8 @@
-## Olá! Eu sou Jhon, programador iniciante!
+## Olá! Eu sou Jhon, entusiasta em linux e OpenSource!
 
-🤓 Em busca de mais conhecimento.
+🧐 Em busca de mais conhecimento.
 
-💙 Atualmente estudando Kotlin.
+❤️ Atualmente estudando Debian server.
 
 
 <div align="center">
