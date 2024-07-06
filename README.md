@@ -11,7 +11,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhon1098&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-  ##
+  ___
 
   ### Conhecimento em
 
@@ -36,14 +36,23 @@
   <a href="https://www.android.com/" target="_blank"><img height="45em" src="media/android.svg"></a>
 </div>  
 
-##
+___
+
+# Projetos
+<div> 
+  <a href="https://linuxlove.duckdns.org" target="_blank"><img height="150em" src="media/projetos/linuxlove/linuxlove.png"></a> 
+
+  <a href="https://linuxlove.duckdns.org">**Linuxlove**</a>
+</div>
+
+___
 
   ### Fale comigo
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonlol)
 
 
-##
+___
 
 ![snake gif](https://github.com/Jhon1098/Jhon1098/blob/output/github-contribution-grid-snake.svg)
 
