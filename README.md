@@ -1,8 +1,8 @@
-## Olá! Eu sou Jhon, entusiasta em linux e OpenSource!
+## Olá! Eu sou Jhon Victor, entusiasta em linux e OpenSource!
 
 🧐 Em busca de mais conhecimento.
 
-❤️ Atualmente estudando Docker.
+❤️ Atualmente estudando auto-hospedagem.
 
 
 <div align="center">
@@ -16,26 +16,24 @@
   ### Conhecimento em
 
   <div>
-    <a target="_blank"><img height="41em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"></a>
-    <a target="_blank"><img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"></a> 
-    <a target="_blank"><img height="46em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"></a>
-    <a target="_blank"><img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg"></a>
-    <a target="_blank"><img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a>
-    <a target="_blank"><img height="48em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"></a>
-    <a target="_blank"><img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></a>
-    <a target="_blank"><img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmark.svg"></a>
-    <a target="_blank"><img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></a>
-    <a href="https://www.debian.org" target="_blank"><img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg"></a>
-    <a href="https://ubuntu.com/download/server" target="_blank"><img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"></a>
+    <a target="_blank"><img height="41em" src="media/html.svg"></a>
+    <a target="_blank"><img height="40em" src="media/css.svg"></a> 
+    <a target="_blank"><img height="46em" src="media/markdown.svg"></a>
+    <a target="_blank"><img height="45em" src="media/bash.svg"></a>
+    <a target="_blank"><img height="40em" src="media/git.svg"></a>
+    <a target="_blank"><img height="48em" src="media/docker.svg"></a>
+    <a href="kernel.org" target="_blank"><img height="40em" src="media/linux.png"></a>
+    <a target="_blank"><img height="40em" src="media/vs-code.svg"></a>
+
 
 ##
 
   ### Meus sistemas favoritos
 
 <div>
-  <a href="https://www.debian.org" target="_blank"><img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg"></a> 
-  <a href="https://ubuntu.com" target="_blank"><img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"></a>
-  <a href="https://www.android.com/" target="_blank"><img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg"></a>
+  <a href="https://www.debian.org" target="_blank"><img height="45em" src="media/debian.svg"></a> 
+  <a href="https://ubuntu.com" target="_blank"><img height="45em" src="media/ubuntu.png"></a>
+  <a href="https://www.android.com/" target="_blank"><img height="45em" src="media/android.svg"></a>
 </div>  
 
 ##
