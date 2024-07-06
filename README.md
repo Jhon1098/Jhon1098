@@ -22,7 +22,7 @@
     <a target="_blank"><img height="45em" src="media/bash.svg"></a>
     <a target="_blank"><img height="40em" src="media/git.svg"></a>
     <a target="_blank"><img height="48em" src="media/docker.svg"></a>
-    <a href="kernel.org" target="_blank"><img height="40em" src="media/linux.png"></a>
+    <a href="_blank" target="_blank"><img height="40em" src="media/linux.png"></a>
     <a target="_blank"><img height="40em" src="media/vs-code.svg"></a>
 
 
