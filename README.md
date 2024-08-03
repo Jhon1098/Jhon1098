@@ -2,7 +2,7 @@
 
 🧐 Em busca de mais conhecimento.
 
-❤️ Atualmente estudando auto-hospedagem.
+❤️  Atualmente estudando Shell Script.
 
 
 <div align="center">
