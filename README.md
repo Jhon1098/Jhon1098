@@ -1,4 +1,4 @@
-## Olá! Eu sou Jhon Victor, entusiasta em linux e OpenSource!
+## Olá! Eu sou Jhon1098, entusiasta em linux e OpenSource!
 
 🧐 Em busca de mais conhecimento.
 
@@ -22,7 +22,7 @@
     <a target="_blank"><img height="45em" src="media/bash.svg"></a>
     <a target="_blank"><img height="40em" src="media/git.svg"></a>
     <a target="_blank"><img height="48em" src="media/docker.svg"></a>
-    <a href="_blank" target="_blank"><img height="40em" src="media/linux.png"></a>
+    <a target="_blank"><img height="40em" src="media/linux.png"></a>
     <a target="_blank"><img height="40em" src="media/vs-code.svg"></a>
 
 
@@ -34,7 +34,7 @@
   <a href="https://www.debian.org" target="_blank"><img height="45em" src="media/debian.svg"></a> 
   <a href="https://ubuntu.com" target="_blank"><img height="45em" src="media/ubuntu.png"></a>
   <a href="https://www.android.com/" target="_blank"><img height="45em" src="media/android.svg"></a>
-</div>  
+</div>
 
 ___
 
