@@ -58,5 +58,5 @@ ___
 ___
 
 <div>
-  <a href="https://linuxlove.duckdns.org" target="_blank"><img height="450em" src="media/Wallpaper-Ghibli.gif"></a> 
+  <img height="500em" src="media/Wallpaper-Ghibli.gif"></a>
 </div>
