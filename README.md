@@ -1,9 +1,12 @@
-## Olá! Eu sou Jhon1098, entusiasta em linux e OpenSource!
+## Olá Mundo!
+
+### Apenas um católico entusiasta em linux e OpenSource!
 
 🧐 Em busca de mais conhecimento.
 
-❤️  Atualmente estudando Shell Script.
+❤️ Atualmente estudando o Catecismo.
 
+"Non Nisi Te, Domine" - Nada Além de Ti, Senhor!
 
 <div align="center">
   <a href="https://github.com/Jhon1098">
@@ -13,7 +16,7 @@
   
   ___
 
-  ### Conhecimento em
+  ### Conhecimento em:
 
   <div>
     <a target="_blank"><img height="41em" src="media/html.svg"></a>
@@ -28,11 +31,11 @@
 
 ##
 
-  ### Meus sistemas favoritos
+  ### Meus sistemas favoritos:
 
 <div>
+  <a href="https://zorin.com/" target="_blank"><img height="45em" src="media/Zorin-OS.svg"></a>
   <a href="https://www.debian.org" target="_blank"><img height="45em" src="media/debian.svg"></a> 
-  <a href="https://ubuntu.com" target="_blank"><img height="45em" src="media/ubuntu.png"></a>
   <a href="https://www.android.com/" target="_blank"><img height="45em" src="media/android.svg"></a>
 </div>
 
@@ -50,7 +53,7 @@ ___
 
   ### Fale comigo
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonlol)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
 -->
 ___
