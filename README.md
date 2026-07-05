@@ -58,5 +58,5 @@ ___
 ___
 
 <div>
-  <img height="650em" src="media/Wallpaper-Ghibli.gif"></a>
+  <img height="625em" src="media/Wallpaper-Ghibli.gif"></a>
 </div>
