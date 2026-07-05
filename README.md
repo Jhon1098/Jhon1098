@@ -58,5 +58,5 @@ ___
 ___
 
 <div>
-  <img height="400em" width="1080px" src="media/Wallpaper-Ghibli.gif"></a>
+  <a href="https://studioghibli.com.br/sobre/" target="_blank"><img height="400em" width="1080px" src="media/Wallpaper-Ghibli.gif"></a>
 </div>
